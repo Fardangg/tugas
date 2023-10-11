@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(25, 83, 105)
+}
+
+main{
+    max-width: center;
+    margin: auto;
+    background-color: rgb(35, 125, 204);
+    padding: 2mm;
+}
